@@ -1,0 +1,42 @@
+
+Name: Juan Fonseca
+
+Location: Toronto, Canada
+
+Age: 26
+
+Gender: Male
+
+Biography: Juan is a computer programming student at Georgian College. He has a keen interest in programming and game development and is actively seeking resources to enhance his skills. He is passionate about technology and aspires to become a game developer.
+
+Purpose of Website Visit: Juan is visiting the website to access practical tutorials, open-source projects, and an active community of programmers. He aims to improve his coding skills, find solutions to programming challenges, and connect with other students and professionals in the field.
+
+Interests:
+
+Programming: Focused on learning languages such as Python and JavaScript.
+Software Development: Aspires to work in web and mobile application development.
+Community: Seeks interaction with other students and programming professionals.
+Continuous Learning: Interested in educational resources and practical challenges.
+
+Challenges:
+
+Academic Balance: Needs resources that fit into his academic schedule.
+Limited Experience: While having basic knowledge, he seeks resources to advance to a more advanced level.
+
+Goals:
+
+Master Game Development Tools: Wants to learn to use engines like Unity or Unreal Engine to create impressive games.
+Publish a Video Game: Long-term goal is to develop and publish his own game on a relevant platform.
+Build a Career in the Industry: Aspires to work in the video game industry and contribute to the creation of unique experiences.
+
+Challenges:
+
+Specific Resources: Needs access to tutorials and guides specific to game development, considering his specialized goals.
+Academic Balance: Despite his passion, he must balance learning with academic responsibilities.
+Lack of Practical Experience: Looks for opportunities to apply his knowledge through practical projects.
+
+Preferences:
+
+Hands-On Learning: Prefers resources that include practical projects and examples of game development.
+Developer Community: Values interaction with other developers to share knowledge, receive feedback, and find collaboration opportunities.
+Industry Updates: Interested in current news and trends in game development
